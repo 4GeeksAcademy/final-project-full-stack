@@ -3,6 +3,8 @@
 	"slug" : "full-stack-project-stories-and-wireframes",
 	"preview": "https://github.com/4GeeksAcademy/final-project-full-stack/raw/main/docs/assets/preview.png?raw=true",
 	"status": "published",
+	"difficulty": "intermediate",
+	"technologies": ["flask", "react.js", "react-context-api", "react-flux", "jwt", "sql-alchemy", "alembic", "postgres", "javascript"],
     "visibility": "internal",
 	"duration" : 8,
 	"description" : "Create the users stories for your final project",
