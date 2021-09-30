@@ -6,7 +6,7 @@ It's time to thing about what you are going to be building, you'll have to devel
 
 This project should be started after you have the class about Agile Development because you will have to create User Stories and a Kanban Board.
 
-## Instrutions
+## Instructions:
 
 1. Start the project using the academy [Full-Stack boilerplate](https://github.com/4GeeksAcademy/react-flask-hello) that contains Front-End and Back-End all together.
 2. Add all your user stories into the [repository issues](https://help.github.com/en/articles/about-issues) as it will be the main repository for your project specs.
@@ -37,12 +37,18 @@ A great way to polish your user stories is to draft of all your application wire
 Please create all the wireframes for your [application's MVP](https://www.youtube.com/watch?v=joNKkWPafZs).
 
 ## Steps
-- Start by building a sitemap
+
+- Start by building a sitemap.
+
 - Then do the wireframe of your home page.
+
 - Continue drawing the most important pages.
-- Everytime you draw a page, ideantify and highlite the re-usable parts to convert them into components.
+
+- Everytime you draw a page, identify and highlite the re-usable parts to convert them into components.
+
 - Try to re-use everything all the time. The less code, the better!
 - Keep it simple!
+
 
 # [BE LEAN!](https://www.youtube.com/watch?v=jBlrLqsjIDw)
 # [Like Really LEAN!](https://www.youtube.com/watch?v=X2YoHFuWkqs)
