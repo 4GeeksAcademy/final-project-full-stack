@@ -8,6 +8,7 @@
     "visibility": "internal",
 	"duration" : 8,
 	"description" : "Create the users stories for your final project",
+    "projectType": "project",
 	"talents": [
 		{ "badge": "docu-lover", "points": 15 }
 	]
