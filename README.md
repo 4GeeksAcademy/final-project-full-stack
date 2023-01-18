@@ -2,7 +2,7 @@
 
 ![Final Project Architecture](https://github.com/4GeeksAcademy/final-project-full-stack/blob/main/docs/assets/preview.png?raw=true)
 
-It's time to thing about what you are going to be building, you'll have to develop an entire product, prepare a presentation & demonstrate the product and the idea to family, friends and hiring partners.
+It's time to think about what you are going to be building, you'll have to develop an entire product, prepare a presentation & demonstrate the product and the idea to family, friends and hiring partners.
 
 This project should be started after you have the class about Agile Development because you will have to create User Stories and a Kanban Board.
 
