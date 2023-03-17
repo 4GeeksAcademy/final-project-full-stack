@@ -17,7 +17,7 @@ This project should be started after you have the class about Agile Development 
 ### Technological Requirements for the project:
 
 1. Several Pages (for example: Home page, Login Page, Profile Page, etc.).
-2. User authentication (Login+Signup+Remind Password).
+2. User authentication (Login+Signup+Forgot Password).
 3. Custom made API with Authentication.
 4. 3rd party API integration (embeds and iframes don’t count), it has to be a back-end integration.
 5. React.js application using Flux and React Router.
