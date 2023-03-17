@@ -20,7 +20,7 @@ Este proyecto debe iniciarse después de tener la clase sobre `desarrollo ágil`
 
 1. Varias páginas con HTML5 + CSS3 + Bootstrap.
 
-2. Autetitificación de usuario (Login+Signup+Remind Password).
+2. Autetitificación de usuario (Login + Registro + `Recordar Contraseña`).
 
 3. API customizada hecha con OAuth.
 
