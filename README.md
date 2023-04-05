@@ -1,4 +1,6 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  Full-Stack Final Project
+<!--hide-->
+# Full-Stack Final Project
+<!--endhide-->
 
 ![Final Project Architecture](https://github.com/4GeeksAcademy/final-project-full-stack/blob/main/docs/assets/preview.png?raw=true)
 
@@ -53,4 +55,4 @@ Please create all the wireframes for your [application's MVP](https://www.youtub
 # [BE LEAN!](https://www.youtube.com/watch?v=jBlrLqsjIDw)
 # [Like Really LEAN!](https://www.youtube.com/watch?v=X2YoHFuWkqs)
 
-
+This and many other projects are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
