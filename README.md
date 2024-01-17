@@ -11,8 +11,8 @@ This project should be started after you have taken the class about Agile Develo
 ## 📝 Instructions
 
 1. Start the project using the academy's [Full-Stack boilerplate](https://github.com/4GeeksAcademy/react-flask-hello) that contains Front-End and Back-End all together.
-2. Add all your user stories into the [repository's issues](https://help.github.com/en/articles/about-issues), as it will be the main repository for your project specs.
-3. Please create a [Github Kanban Automated Project](https://help.github.com/en/articles/about-project-boards) with the KANBAN columns: Backlog, Todo, Doing, Done.
+2. Add all your user stories into the [repository's issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues), as it will be the main repository for your project specs.
+3. Please create a [Github Kanban Automated Project](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) with the KANBAN columns: Backlog, Todo, Doing, Done.
 4. Now add the issues into the project as cards and plan for your first iteration.
 
 
@@ -31,7 +31,7 @@ This project should be started after you have taken the class about Agile Develo
 1. The project must have between 3 - 4 team members.
 2. Start by doing the wireframes and user stories and adding them into your repository's issues and projects (you have to deliver them).
 3. Create all the user stories with acceptance criteria.
-4. Use a Kanban board for follow up on [Github Project Boards](https://help.github.com/articles/about-project-boards/)
+4. Use a Kanban board for follow up on [Github Project Boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards).
 
 
 ## Building the Wireframe
