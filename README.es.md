@@ -31,13 +31,13 @@ Este proyecto debe iniciarse después de tener la clase sobre **desarrollo ágil
 3. Crea todas las historias de usuarios con un criterio de aceptación.
 4. Usa un tablero Kanban para hacerle seguimiento a los [tableros de proyecto en Github](https://docs.github.com/es/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards).
 
-## Creando los Wireframes:
+## Creando los Wireframes
 
 Una buena forma de pulir tus historias de usuario es hacer un borrador de todos los *wireframes* de tu aplicación (puedes dibujarlos).
 
-Por favor crea todos los *wireframes* para el [MVP de tu aplicación](https://www.youtube.com/watch?v=joNKkWPafZs).
+Por favor, crea todos los *wireframes* para el [Minimal Viable Product o MVP de tu aplicación](https://www.youtube.com/watch?v=joNKkWPafZs).
 
-## Pasos a seguir:
+## Pasos a seguir
 
 - Comienza por crear un mapa de tu sitio web.
 
