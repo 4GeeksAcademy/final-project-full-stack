@@ -47,7 +47,7 @@ Por favor crea todos los *wireframes* para el [MVP de tu aplicación](https://ww
 
 - Cada vez que dibujes un *wireframe*, identifica y destaca las partes reutilizables para así convertirlas en componentes.
 
-- Intenta reutilizar lo que más puedas ¡mientras menos código, mejor!
+- Intenta reutilizar lo más que puedas, ¡mientras menos código, mejor!
 
 - ¡No te compliques! 
 
