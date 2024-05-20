@@ -1,7 +1,9 @@
+<!--hide-->
+## Warning 
+
 > This repository its not being used anymore, we split this into several repos to better explain how to build the final project.
 > Go to 4Geeks.com to get the latest version of the syllabus.
 
-<!--hide-->
 # Full-Stack Final Project
 <!--endhide-->
 
