@@ -1,4 +1,8 @@
 <!--hide-->
+## 🚨 IMPORTANTE 
+
+> Este repositorio esta abandonado, hemos cambiado los requerimientos del projecto final. Por favor entra en 4Geeks.com para la version actualizada.
+
 # Proyecto Final Full-Stack
 <!--endhide-->
 
